@@ -1,4 +1,4 @@
-# SEI Workflow Automation
+# SEI Bloco de Assinaturas
 
 Conjunto de scripts em Python que automatizam etapas manuais e repetitivas de um fluxo de
 **gestão documental no SEI (Sistema Eletrônico de Informações)**, usado por diversos órgãos
